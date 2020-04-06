@@ -1,4 +1,4 @@
-# bingo
+# Bingo
 
 This was assigned to me as a final project for my Client Side Programming class at NMU.
 
